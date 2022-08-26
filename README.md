@@ -5,8 +5,8 @@
 	
 ## Installation:
 	1) sudo git clone https://github.com/Anand201096/Strong_Password_Checker.git
-  2) cd Strong_Password_Checker
-  3) python3 pass_check.py "password"
+  	2) cd Strong_Password_Checker
+  	3) python3 pass_check.py "password"
 
 ## INPUT:
 
